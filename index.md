@@ -1,3 +1,3 @@
 ## Welcome to khotanese.org
 
-Contributors: Qing DUAN, Zhan ZHANG, Hongsu WANG
+Current contributors: Qing DUAN, Zhan ZHANG, Hongsu WANG
