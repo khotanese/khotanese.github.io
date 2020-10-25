@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/samples/inspire", {data:[{}],fetch:[],mutations:void 0});
