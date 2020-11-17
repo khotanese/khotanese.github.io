@@ -8,7 +8,7 @@ img:  # Add image post (optional)
 
 This is the digital version of Bailey Dictionary of Saka
 
-Current Editorial Group:
+Current editorial group:
 
 段晴，范晶晶，韩丹丹，李晓楠，向筱路，袁勇（首字母顺序）
 
