@@ -1,0 +1,17 @@
+---
+layout: post
+title: "About us"
+date: 2020-11-18 03:26:00 +0800
+description: # Add post description (optional)
+img:  # Add image post (optional)
+---
+
+Khotanese.org is a project...
+
+Email: xxx@xxx.com
+
+Current Contributors: Qing DUAN, Jingjing FAN, Zhan ZHANG, Dandan HAN, Xiaonan LI, Xiaolu XIANG, Yong YUAN
+
+Technique Support: Hongsu WANG
+
+Github Project: [https://github.com/khotanese](https://github.com/khotanese)

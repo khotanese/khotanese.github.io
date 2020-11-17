@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<aside class="sidebar">
+  <header>
+    <div class="about">
+      <div class="author-name"><a href="/">{{site.author}}</a></div>
+      <p>{{site.about-author}}</p>
+    </div>
+  </header> <!-- End Header -->
+  <footer>
+
+    <div class="copyright">
+      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+    </div>
+  </footer> <!-- End Footer -->
+</aside> <!-- End Sidebar -->
+<div class="content-box clearfix">
+  {{ content }}
+</div>
