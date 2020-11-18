@@ -12,7 +12,7 @@ Current editorial group:
 
 段晴，范晶晶，韩丹丹，李晓楠，向筱路，袁勇（首字母顺序）
 
-[https://kd.khotanese.org](https://kd.khotanese.org/)
+URL: [https://kd.khotanese.org](https://kd.khotanese.org/)
 
 The entries we have completed are:
 
