@@ -6,12 +6,12 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 
-Khotanese.org is a project...
-
 Email: xxx@xxx.com
 
 Current Contributors: Qing DUAN, Jingjing FAN, Zhan ZHANG, Dandan HAN, Xiaonan LI, Xiaolu XIANG, Yong YUAN
 
-Technique Support: Hongsu WANG
+Technical Team: Hongsu WANG
+
+Supported By: 唐仲英基金会“新疆地区民间文化的调查与传扬”项目
 
 Github Project: [https://github.com/khotanese](https://github.com/khotanese)
