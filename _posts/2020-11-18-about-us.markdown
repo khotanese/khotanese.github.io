@@ -6,8 +6,6 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 
-Email: xxx@xxx.com
-
 Current Contributors: Qing DUAN, Jingjing FAN, Zhan ZHANG, Dandan HAN, Xiaonan LI, Xiaolu XIANG, Yong YUAN
 
 Technical Team: Hongsu WANG
