@@ -12,12 +12,11 @@ img:  # Add image post (optional)
 
 ## Name Index (Alphabetical Order)
 
-[H.W. Bailey](https://articles.khotanese.org/skj%C3%A6rv%C3%B8,-oktor/)
+[H.W. Bailey](https://articles.khotanese.org/bailey,-h.w/)
 
-[Oktor Skjærvø](https://articles.khotanese.org/bailey,-h.w/)
+[Oktor Skjærvø](https://articles.khotanese.org/skj%C3%A6rv%C3%B8,-oktor/)
 
 [Ronald Eric Emmerick](https://articles.khotanese.org/emmerick,-ronald-eric/)
-
 
 ## Abbreviations
 
