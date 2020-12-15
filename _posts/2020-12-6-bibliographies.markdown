@@ -6,10 +6,6 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 
-## Chronological Bibliography (All)
-
-[https://articles.khotanese.org/chronological-bibliography](https://articles.khotanese.org/chronological-bibliography/)
-
 ## Name Index (Alphabetical Order)
 
 [H.W. Bailey](https://articles.khotanese.org/bailey,-h.w/)
@@ -17,6 +13,10 @@ img:  # Add image post (optional)
 [Oktor Skjærvø](https://articles.khotanese.org/skj%C3%A6rv%C3%B8,-oktor/)
 
 [Ronald Eric Emmerick](https://articles.khotanese.org/emmerick,-ronald-eric/)
+
+## Chronological Bibliography (All)
+
+[https://articles.khotanese.org/chronological-bibliography](https://articles.khotanese.org/chronological-bibliography/)
 
 ## Abbreviations
 
