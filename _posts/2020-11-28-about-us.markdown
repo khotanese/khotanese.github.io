@@ -8,7 +8,7 @@ img:  # Add image post (optional)
 
 **Contact:** lxnmaido115(at)163.com
 
-**Current Contributors:** Qing DUAN, Jingjing FAN, Zhan ZHANG, Dandan HAN, Xiaonan LI, Xiaolu XIANG, Yong YUAN
+**Contributors:** Qing DUAN, Jingjing FAN, Zhan ZHANG, Dandan HAN, Xiaonan LI, Xiaolu XIANG, Yong YUAN
 
 **Technical Team:** Hongsu WANG
 
