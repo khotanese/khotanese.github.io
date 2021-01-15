@@ -22,9 +22,9 @@ SGS：Saka Grammatical Studies
 
 ## Editorial Group
 
-段晴 范晶晶 张湛
+段晴、范晶晶、张湛
 
-韩丹丹 傅英东 黄佳瞳 李晓楠 王倩倩 向筱路 袁勇 （首字母顺序）
+韩丹丹、傅英东、黄佳瞳、李晓楠、王倩倩、向筱路、袁勇（首字母顺序）
 
 ## The Entries We Have Completed Are (1775 entries)
 
