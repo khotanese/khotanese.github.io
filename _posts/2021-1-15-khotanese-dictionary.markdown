@@ -8,6 +8,10 @@ img:  # Add image post (optional)
 
 This is the digital Khotanese dictionary with the data from ***Dictionary of Khotan Saka***, ***Studies in the Vocabulary of Khotanese*** and ***Saka Grammatical Studies***
 
+## URL
+
+[https://kd.khotanese.org](https://kd.khotanese.org/)
+
 ## Abbreviations
 
 DKS：Dictionary of Khotan Saka
@@ -15,11 +19,6 @@ DKS：Dictionary of Khotan Saka
 SVK：Studies in the Vocabulary of Khotanese
 
 SGS：Saka Grammatical Studies
-
-
-## URL
-
-[https://kd.khotanese.org](https://kd.khotanese.org/)
 
 ## Editorial Group
 
