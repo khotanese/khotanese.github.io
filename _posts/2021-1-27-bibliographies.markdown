@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bibliographies"
-date: 2020-12-15 16:29:00 +0800
+date: 2021-1-27 1:44:00 +0800
 description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
@@ -14,7 +14,11 @@ img:  # Add image post (optional)
 
 [Ronald Eric Emmerick](https://articles.khotanese.org/emmerick,-ronald-eric/)
 
-## Chronological Bibliography (All)
+## Name Index on One Page (Alphabetical Order)
+
+[https://articles.khotanese.org/name-index-on-one-page-(alphabetical-order)](https://articles.khotanese.org/name-index-on-one-page-(alphabetical-order)/)
+
+## Chronological Bibliography
 
 [https://articles.khotanese.org/chronological-bibliography](https://articles.khotanese.org/chronological-bibliography/)
 
