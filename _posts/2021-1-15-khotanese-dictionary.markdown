@@ -28,7 +28,7 @@ SGS：Saka Grammatical Studies
 
 ## Webapp Designer
 
-oopus
+<a href="https://github.com/sudoghut" target="_blank">oopus</a>
 
 ## The Entries We Have Completed Are (1775 entries)
 
