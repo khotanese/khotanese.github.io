@@ -2,7 +2,13 @@
 layout: main
 ---
 {% for post in paginator.posts %}
-<article class="post"><a href="{{post.url | prepend: site.baseurl}}">
+<article class="post">
+  {% if post.title == "Dictionary" %}
+   <a href="https://kd.khotanese.org/">
+    <!-- <a href="{{post.url | prepend: site.baseurl}}"> -->
+  {% else %}
+   <a href="{{post.url | prepend: site.baseurl}}">
+  {% endif %}
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
   {% else %}
@@ -10,8 +16,8 @@ layout: main
   <div class="post-content">
     <h2 class="post-title" style="color: #263959">{{post.title}}</h2>
     <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
-    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+    <span class="post-date">{{post.date | date: '%Y, %b %d'}}</span>
+    <!-- <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span> -->
   </div>
 </a></article>
 {% endfor %}

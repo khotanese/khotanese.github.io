@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Khotanese Dictionary"
+title: "Dictionary"
 date: 2021-5-15 18:40:00 +0800
 description: # Add post description (optional)
 img:  # Add image post (optional)
