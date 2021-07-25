@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dictionary"
-date: 2021-7-55 10:55:00 +0800
+date: 2021-7-25 10:55:00 +0800
 description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
