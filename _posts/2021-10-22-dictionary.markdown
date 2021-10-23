@@ -6,7 +6,19 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 
-This is the digital Khotanese dictionary with the data from ***Dictionary of Khotan Saka***, ***Studies in the Vocabulary of Khotanese***, ***Saka Grammatical Studies***, ***KBM：Khotan·Buddhism·Manuscripts（段晴：《于阗·佛教·古卷》，上海：中西书局，2013年。）***, ***XJM：Xinjiang Manuscripts Preserved in the National Library of China（段晴：《中国国家图书馆藏西域文书 于阗语卷（一）》，上海：中西书局，2015年。）***, ***KRND：Khotanese Raśmivimalaviśuddhaprabhā Nāma Dhāraṇī（段晴：《于阗语无垢净光大陀罗尼经》，上海：中西书局，2019年。）***
+This is the digital Khotanese dictionary with the data from
+
+**Dictionary of Khotan Saka**
+
+**Studies in the Vocabulary of Khotanese**
+
+**Saka Grammatical Studies**
+
+**KBM：Khotan·Buddhism·Manuscripts（段晴：《于阗·佛教·古卷》，上海：中西书局，2013年。）**
+
+**XJM：Xinjiang Manuscripts Preserved in the National Library of China（段晴：《中国国家图书馆藏西域文书 于阗语卷（一）》，上海：中西书局，2015年。）**
+
+**KRND：Khotanese Raśmivimalaviśuddhaprabhā Nāma Dhāraṇī（段晴：《于阗语无垢净光大陀罗尼经》，上海：中西书局，2019年。）**
 
 
 ## URL
