@@ -29,9 +29,9 @@ KRND: Khotanese Raśmivimalaviśuddhaprabhā Nāma Dhāraṇī（段晴：《于
 
 ## Editorial Group
 
-段晴、范晶晶、张湛
+Qing DUAN 段晴、Jingjing FAN 范晶晶、Zhan ZHANG 张湛
 
-韩丹丹、傅英东、黄佳瞳、李晓楠、王倩倩、向筱路、袁勇（首字母顺序）
+Dandan HAN 韩丹丹、Yingdong FU 傅英东、Jiatong HUANG 黄佳瞳、Xiaonan LI 李晓楠、Qianqian WANG 王倩倩、Xiaolu XIANG 向筱路、Yong YUAN 袁勇
 
 ## Webapp Designer
 
