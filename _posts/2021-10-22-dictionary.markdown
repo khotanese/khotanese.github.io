@@ -6,7 +6,8 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 
-This is the digital Khotanese dictionary with the data from ***Dictionary of Khotan Saka***, ***Studies in the Vocabulary of Khotanese*** and ***Saka Grammatical Studies***
+This is the digital Khotanese dictionary with the data from ***Dictionary of Khotan Saka***, ***Studies in the Vocabulary of Khotanese***, ***Saka Grammatical Studies***, ***KBM：Khotan·Buddhism·Manuscripts（段晴：《于阗·佛教·古卷》，上海：中西书局，2013年。）***, ***XJM：Xinjiang Manuscripts Preserved in the National Library of China（段晴：《中国国家图书馆藏西域文书 于阗语卷（一）》，上海：中西书局，2015年。）***, ***KRND：Khotanese Raśmivimalaviśuddhaprabhā Nāma Dhāraṇī（段晴：《于阗语无垢净光大陀罗尼经》，上海：中西书局，2019年。）***
+
 
 ## URL
 
@@ -14,11 +15,67 @@ This is the digital Khotanese dictionary with the data from ***Dictionary of Kho
 
 ## Abbreviations
 
-DKS：Dictionary of Khotan Saka
+ARIRIAB: Annual Report of the International Research Institute for Advanced Buddhology at Soka University (Tokyo)
 
-SVK：Studies in the Vocabulary of Khotanese
+BH: Bejng+Hetian 中国国家图书馆西域文书编号标识
 
-SGS：Saka Grammatical Studies
+BHS(D,G): Buddhist Hybrid Sanskrit Grammar and Dictionary, Franklin Edgerton [reprint Delhi, 1977 (1st Editon: New Haven 1953)]
+
+BMSC: Buddhist Manuscripts in the Schøyen Collection, vol.I (Oslo: Hermes Publishing 2000, vol.II, 2002, vol.I, 2006)
+
+BSOAS: Catalogue Bulletin of the School of Oriental and African Studies (Unibersity of London)
+
+Catalogue: Khotanese Manuscripts from Chinese Turkestan in the British Library, a Complete Catalogue with Texts and Translations, P. O. Skjærvø (The British Library, 2002) 
+
+CBETA: 中华电子佛典协会 (Chinese Buddhist Electronic Text Association) 
+
+D.: 德格版（sDe dge）《藏文大藏经》。目录见∶『西藏大藏经德目绿 東北帝国大学藏版』，東北帝国大学法文学部，1934。
+
+DKS:  Dictionary of Khotan Saka, H.W. Bailey (Cambridge: Cambridge University Press, 1979)
+
+DHBZ: Dunhuang baozang《敦煌宝藏》[Treasures from Dunhuang]，ed. HUANG YONGWU 黄永武主编 (Taibei 台北，1983—1986)
+
+Encycl. Iranica: Encyclopœdia Iranica, edited by E. Yarshater (London and New York 1982)
+
+IIJ: Indo-Iranian Journal.
+
+KBT: Khotanese Buddhist Texts, H.W. Bailey (London: Taylor's Foreign Press, 1951)
+
+KI:  Kharoṣṭhī Inscriptions, discovered by Sir Aurel Stein in Chinese Turkestan, A.M. Boyer, E.J. Rapson, E. Senart & P. S. Noble (Oxford: Clarendon Press, reprint in 1997)
+
+KT 1-3: Khotanese Texts I—III, H.W. Bailey (Cambridge: Cambridge University Press, reprinted 1980)
+
+KT 4: Khotanese Texts IV, H.W. Bailey (Cambridge: Cambridge University Press, 1961) 
+
+KT 5: Khotanese Texts V, H.W. Bailey (Cambridge: Cambridge University Press, reprinted with corrections 1980)
+
+KT 6: Khotanese Texts VI. Prolexis to the Book of Zambasta, H.W. Bailey (Cambridge: Cambridge University Press, reprinted with corrections 1967)
+
+NLC: National Library of China
+
+P.: 《藏文大藏經》北京版
+
+SD TV: Saka Documents, Text Volume, Corpus Inscriptionum Iranicarum, H.W. Bailey (London: Percy Lund, Humphries, 1968)
+
+SDT III: Saka Documents Text Volume III:The St.Petersburg Collections, Ronald E. Emmerick & Margarita I. Vorob’ëva-Desjatovskaja (London: School of Oriental and African Studies, 1995)
+
+SGS: Saka Grammatical Studies, R.E. Emmerick (London: Oxford University Press, 1968)
+
+Skt.: < Sanskrit
+
+SVK I: Studies in the Vocabulary of Khotanese I, R.E.Emmerick & P.O.Skjærva （Wien∶Verlag der Österreichischen Akademie der Wissenschaften 1982）
+
+SVK II: Studies in the Vocabulary of Khotanese II, R.E.Emmerick & P. O. Skjærvo (Wien: Verlag der Osterreichischen Akademie der Wissenschaften 1987)
+
+SVK III: Studies in the Vocabulary of Khotanese III, R.E. Emmerick & P.O. Skjærvo (Wien: Verlag der Osterreichischen Akademie der Wissenschaften 1997)
+
+Suffixe: Khotanese Suffixe, Alt- und Neu-Indische Studien 39, Almuth Degener (Stuttgart: Franz Steiner Verlag, 1989)
+
+Suv: Suvarṇabhāsottamasūtra. Das Goldglanz-sūtra. Ein Sanskrittext des Mahāyāna-Buddhismus nach den Handschriften und mit Hilfe der tibetischen und chinesischen Übertragungen， edited by Johannes Nobel （Leipzig∶ Otto Harrassowitz, 1937)
+
+T:《大正新修大藏经》，依据CBETA电子版
+
+Z: The Book of Zambasta: A Khotanese Poem on Buddhism, R.E. Emmerick (London: Oxford University Press 1968)
 
 ## Editorial Group
 
