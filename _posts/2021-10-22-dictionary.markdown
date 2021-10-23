@@ -6,6 +6,12 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 
+
+## URL
+
+[https://kd.khotanese.org](https://kd.khotanese.org/)
+
+
 ## This is the digital Khotanese dictionary with the data from
 
 **Dictionary of Khotan Saka**
@@ -21,9 +27,16 @@ img:  # Add image post (optional)
 **KRND：Khotanese Raśmivimalaviśuddhaprabhā Nāma Dhāraṇī（段晴：《于阗语无垢净光大陀罗尼经》，上海：中西书局，2019年。）**
 
 
-## URL
+## Editorial Group
 
-[https://kd.khotanese.org](https://kd.khotanese.org/)
+段晴、范晶晶、张湛
+
+韩丹丹、傅英东、黄佳瞳、李晓楠、王倩倩、向筱路、袁勇（首字母顺序）
+
+## Webapp Designer
+
+<a href="https://github.com/sudoghut" target="_blank">oopus</a>
+
 
 ## Abbreviations
 
@@ -89,15 +102,6 @@ T:《大正新修大藏经》，依据CBETA电子版
 
 Z: The Book of Zambasta: A Khotanese Poem on Buddhism, R.E. Emmerick (London: Oxford University Press 1968)
 
-## Editorial Group
-
-段晴、范晶晶、张湛
-
-韩丹丹、傅英东、黄佳瞳、李晓楠、王倩倩、向筱路、袁勇（首字母顺序）
-
-## Webapp Designer
-
-<a href="https://github.com/sudoghut" target="_blank">oopus</a>
 
 ## The Entries We Have Completed Are (5980 entries)
 
