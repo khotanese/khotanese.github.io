@@ -6,7 +6,7 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 
-This is the digital Khotanese dictionary with the data from
+## This is the digital Khotanese dictionary with the data from
 
 **Dictionary of Khotan Saka**
 
