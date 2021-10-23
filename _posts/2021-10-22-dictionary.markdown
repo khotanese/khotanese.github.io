@@ -12,7 +12,7 @@ img:  # Add image post (optional)
 [https://kd.khotanese.org](https://kd.khotanese.org/)
 
 
-## This is the digital Khotanese dictionary with the data from
+## The Sources of This Digital Khotanese Dictionary
 
 Dictionary of Khotan Saka
 
