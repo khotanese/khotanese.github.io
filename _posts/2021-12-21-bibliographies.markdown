@@ -12,9 +12,9 @@ img:  # Add image post (optional)
 
 [Oktor Skjærvø](https://articles.khotanese.org/skj%C3%A6rv%C3%B8,-oktor/)
 
-[Ronald Eric Emmerick](https://articles.khotanese.org/emmerick,-ronald-eric/)
-
 [Qing Duan 段晴](https://articles.khotanese.org/%E6%AE%B5%E6%99%B4/)
+
+[Ronald Eric Emmerick](https://articles.khotanese.org/emmerick,-ronald-eric/)
 
 ## Name Index on One Page (Alphabetical Order)
 
