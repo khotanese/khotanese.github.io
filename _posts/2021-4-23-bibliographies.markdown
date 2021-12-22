@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bibliographies"
-date: 2021-4-23 21:30:00 +0800
+date: 2021-12-21 10:26:00 +0800
 description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
@@ -13,6 +13,8 @@ img:  # Add image post (optional)
 [Oktor Skjærvø](https://articles.khotanese.org/skj%C3%A6rv%C3%B8,-oktor/)
 
 [Ronald Eric Emmerick](https://articles.khotanese.org/emmerick,-ronald-eric/)
+
+[Qing Duan 段晴](https://articles.khotanese.org/%E6%AE%B5%E6%99%B4/)
 
 ## Name Index on One Page (Alphabetical Order)
 
