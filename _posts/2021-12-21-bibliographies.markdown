@@ -47,3 +47,5 @@ Macuch, M. Maggi, and W. Sundermann, eds., *Iranian Languages and Texts from Ira
 [http://www.iranicaonline.org/articles/emmerick-ronald-eric-scholar](http://www.iranicaonline.org/articles/emmerick-ronald-eric-scholar) (accessed on December 5, 2020).
 
 [https://www.iranicaonline.org/articles/bailey-harold-walter-1](https://www.iranicaonline.org/articles/bailey-harold-walter-1) (accessed on December 5, 2020).
+
+Professor Qing DUAN's bibliography was compiled by Jingjing FAN 范晶晶, Xiaonan LI 李晓楠, Xiaolu XIANG 向筱路, Yong YUAN 袁勇, Dandan HAN 韩丹丹, Jiatong HUANG 黄佳瞳,  Qianqian WANG 王倩倩
