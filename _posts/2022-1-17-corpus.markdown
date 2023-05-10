@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Corpus"
+date: 2022-1-17 11:19:00 +0800
+description: # Add post description (optional)
+img:  # Add image post (optional)
+---
+
+
+## URL
+
+[https://kc.khotanese.org](https://kc.khotanese.org/)
+
+
+## The Sources of This Corpus
+
+
+## Editorial Group
+
+Zhan ZHANG 張湛, Jing ZHANG 張靜
+
+## Webapp Designer
+
+<a href="https://github.com/sudoghut" target="_blank">oopus</a>

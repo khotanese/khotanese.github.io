@@ -6,6 +6,8 @@ layout: main
   {% if post.title == "Dictionary" %}
    <a href="https://kd.khotanese.org/">
     <!-- <a href="{{post.url | prepend: site.baseurl}}"> -->
+  {% elsif post.title == "Corpus" %}
+   <a href="https://kc.khotanese.org/">
   {% else %}
    <a href="{{post.url | prepend: site.baseurl}}">
   {% endif %}
