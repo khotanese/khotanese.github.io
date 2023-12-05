@@ -8,13 +8,13 @@ img:  # Add image post (optional)
 
 ## Name Index (Alphabetical Order)
 
-[H.W. Bailey](https://articles.khotanese.org/bailey,-h.w/)
+[Bailey, Harold Walter](https://articles.khotanese.org/bailey,-h.w/)
 
-[Oktor Skjærvø](https://articles.khotanese.org/skj%C3%A6rv%C3%B8,-oktor/)
+[Duan, Qing 段晴](https://articles.khotanese.org/%E6%AE%B5%E6%99%B4/)
 
-[Qing Duan 段晴](https://articles.khotanese.org/%E6%AE%B5%E6%99%B4/)
+[Emmerick, Ronald Eric](https://articles.khotanese.org/emmerick,-ronald-eric/)
 
-[Ronald Eric Emmerick](https://articles.khotanese.org/emmerick,-ronald-eric/)
+[Skjærvø, Prods Oktor](https://articles.khotanese.org/skj%C3%A6rv%C3%B8,-oktor/)
 
 ## Name Index on One Page (Alphabetical Order)
 
